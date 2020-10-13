@@ -1,0 +1,14 @@
+.select2-selection__choice__display{
+    background-color: #1b2d1f !important;
+}
+.alert-danger {
+    padding-top: 1px;
+    height: 30px;
+}
+.detail_images{
+    margin-top: 20px;
+    width: 130px;
+    height: 100px;
+    object-fit: cover;
+}
+
